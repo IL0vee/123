@@ -1,0 +1,23 @@
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Registration.resources
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\bin\Debug\OnlineStore.accdb
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+C:\Users\Student2\source\repos\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\bin\Debug\OnlineStore.accdb
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.AdminForm.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Registration.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+\\192.168.3.250\Veda\4 Курс\ИСП 43\МДК 07.01\Студентки\Емельянов\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
