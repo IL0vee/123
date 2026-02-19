@@ -1,0 +1,12 @@
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.Registration.resources
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\bin\Debug\PhoneConversation.exe.config
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\bin\Debug\PhoneConversation.exe
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\bin\Debug\PhoneConversation.pdb
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.exe
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.pdb
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.AdminForm.resources
+C:\Users\dzhey\Downloads\Лаба3\PhoneConversation\PhoneConversation\obj\Debug\PhoneConversation.UserForm.resources
