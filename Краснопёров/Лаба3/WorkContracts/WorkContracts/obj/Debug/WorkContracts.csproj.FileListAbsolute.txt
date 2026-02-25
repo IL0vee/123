@@ -1,0 +1,12 @@
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\bin\Debug\WorkContracts.exe.config
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\bin\Debug\WorkContracts.exe
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\bin\Debug\WorkContracts.pdb
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.Registration.resources
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.exe
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.pdb
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.AdminForm.resources
+C:\Users\dzhey\Downloads\Лаба3\WorkContracts\WorkContracts\obj\Debug\WorkContracts.UserForm.resources

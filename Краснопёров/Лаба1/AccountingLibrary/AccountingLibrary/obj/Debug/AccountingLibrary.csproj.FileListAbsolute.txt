@@ -1,0 +1,12 @@
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\bin\Debug\AccountingLibrary.exe.config
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\bin\Debug\AccountingLibrary.exe
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\bin\Debug\AccountingLibrary.pdb
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.Registration.resources
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.exe
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.pdb
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.AdminForm.resources
+C:\Users\dzhey\Downloads\Лаба1\AccountingLibrary\AccountingLibrary\obj\Debug\AccountingLibrary.UserForm.resources

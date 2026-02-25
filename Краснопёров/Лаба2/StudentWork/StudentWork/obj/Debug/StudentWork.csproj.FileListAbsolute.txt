@@ -1,0 +1,13 @@
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\bin\Debug\StudentWork.exe.config
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\bin\Debug\StudentWork.exe
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\bin\Debug\StudentWork.pdb
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.Properties.Resources.resources
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.Registration.resources
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.exe
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.pdb
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.AdminForm.resources
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.Requests.resources
+C:\Users\dzhey\Downloads\Лаба2\StudentWork\StudentWork\obj\Debug\StudentWork.UserForm.resources
